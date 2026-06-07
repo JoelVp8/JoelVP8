@@ -4,9 +4,9 @@
 
 ## 🇪🇸 Español
 
-### ¡Hola, soy Joel Villa Pérez! 👋
+### ¡Hola, soy Joel! 👋
 
-**Ingeniero Electrónico | Sistemas Embebidos & FPGA | Madrid → Zurich**
+**Ingeniero Electrónico | Sistemas Embebidos & FPGA |**
 
 Apasionado por **sistemas críticos de seguridad**, **ingeniería de puesta en marcha** y **validación de sistemas**. Con experiencia en defensa, ferrocarriles (Talgo) y startups. Actualmente en búsqueda de roles técnicos de campo en Suiza.
 
@@ -40,7 +40,7 @@ Apasionado por **sistemas críticos de seguridad**, **ingeniería de puesta en m
 
 ## 🇬🇧 English
 
-### Hi, I'm Joel Villa Pérez! 👋
+### Hi, I'm Joel!👋
 
 **Electronic Engineer | Embedded Systems & FPGA | Madrid → Zurich**
 
