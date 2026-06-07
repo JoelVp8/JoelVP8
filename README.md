@@ -29,17 +29,12 @@ Apasionado por **sistemas críticos de seguridad**, **ingeniería de puesta en m
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🎯 Intereses & Metas
-- ✈️ **Aviación**: Objetivo ATPL (Piloto Comercial)
-- 🏍️ **Motorsports**: A2 licensed rider (Aprilia RS 457)
-- 📊 **Finanzas Cuantitativas**: Auto-study en cálculo estocástico
-- 🚀 **Relocalización**: Zurich 2026 — Buscando roles en **Stadler Rail**, **Alstom**, **Siemens Mobility**
 
 ### 📍 Ubicación Actual
 **Madrid, ES** (originario de Santander)
 
 ### 🤝 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/joel-villa-pérez-258-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-villa-pérez-258-)
 
 ---
 
@@ -70,17 +65,12 @@ Passionate about **safety-critical systems**, **commissioning engineering**, and
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🎯 Interests & Goals
-- ✈️ **Aviation**: ATPL goal (Commercial Pilot)
-- 🏍️ **Motorsports**: A2 licensed rider (Aprilia RS 457)
-- 📊 **Quantitative Finance**: Self-study in stochastic calculus
-- 🚀 **Relocation**: Zurich 2026 — Seeking roles at **Stadler Rail**, **Alstom**, **Siemens Mobility**
 
 ### 📍 Current Location
 **Madrid, ES** (originally from Santander)
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/joel-villa-pérez-258-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-villa-pérez-258-)
 
 ---
 
