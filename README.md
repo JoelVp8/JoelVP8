@@ -8,8 +8,7 @@
 
 **Ingeniero Electrónico | Sistemas Embebidos & FPGA |**
 
-Apasionado por **sistemas críticos de seguridad**, **ingeniería de puesta en marcha** y **validación de sistemas**. Con experiencia en defensa, ferrocarriles (Talgo) y startups. Actualmente en búsqueda de roles técnicos de campo en Suiza.
-
+Apasionado por **sistemas críticos de seguridad**, **ingeniería de puesta en marcha** y **validación de sistemas**. Con experiencia en defensa, ferrocarriles (Talgo) y startups.
 ### ⚡ Experiencia práctica en:
 - **Sistemas Embebidos**: STM32, C, VHDL (Xilinx Zynq7000, Lattice iCE40)
 - **Seguridad Crítica**: EN 50128, IEC 61508, BSP Design
@@ -42,9 +41,9 @@ Apasionado por **sistemas críticos de seguridad**, **ingeniería de puesta en m
 
 ### Hi, I'm Joel!👋
 
-**Electronic Engineer | Embedded Systems & FPGA | Madrid → Zurich**
+**Electronic Engineer | Embedded Systems & FPGA 
 
-Passionate about **safety-critical systems**, **commissioning engineering**, and **systems validation**. Experience in defense, railway (Talgo), and startups. Currently seeking technical field roles in Switzerland.
+Passionate about **safety-critical systems**, **commissioning engineering**, and **systems validation**. Experience in defense, railway (Talgo), and startups.
 
 ### ⚡ Practical Experience in:
 - **Embedded Systems**: STM32, C, VHDL (Xilinx Zynq7000, Lattice iCE40)
